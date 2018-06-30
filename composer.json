@@ -1,0 +1,17 @@
+{
+    "name": "ysandreew/facade",
+    "description": "static proxy class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ysandreew",
+            "email": "2625899521@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"Ysandreew\\Facade\\":"src/"
+		}
+	}
+}
